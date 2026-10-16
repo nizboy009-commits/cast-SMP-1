@@ -1,0 +1,20 @@
+# All cooldown values are seconds.
+cooldowns:
+  adrenaline: 105
+  nimbus: 60
+  puppet: 120
+  terra: 80
+  anchor: 80
+  plague: 60
+  helix: 90
+  lunar: 90
+  solar: 90
+  vital: 105
+  resonant: 105
+  rime: 90
+  necro: 75
+  abyssal: 105
+resource-pack:
+  # Host the included ZIP yourself; the original Modrinth pack is licensed ARR and is not bundled.
+  url: ""
+  sha1: ""

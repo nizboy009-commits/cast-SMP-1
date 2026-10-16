@@ -1,0 +1,18 @@
+name: CastSMP
+version: 1.0.0
+main: com.pinak.castsmp.CastSMPPlugin
+api-version: '26.2'
+author: Pinak
+description: Cast-themed SMP abilities with custom resource-pack item models.
+commands:
+  spellbook:
+    description: Open the Cast SMP spellbook.
+    usage: /spellbook
+  cast:
+    description: Cast SMP administration commands.
+    usage: /cast <give|spells|reload>
+permissions:
+  castsmp.admin:
+    default: op
+  castsmp.use:
+    default: true
